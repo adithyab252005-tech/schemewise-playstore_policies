@@ -1,1 +1,0 @@
-# schemewise-playstore_policies
